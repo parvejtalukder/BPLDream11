@@ -1,0 +1,110 @@
+[
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170691/shakib-al-hasan.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 950000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170689/mushfiqur-rahim.jpg",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper",
+    "rating": "Right-Hand-Bat",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 850000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170693/tamim-iqbal.jpg",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": "Left-Hand-Bat",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 800000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170695/litton-das.jpg",
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper",
+    "rating": "Right-Hand-Bat",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 750000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170647/pat-cummins.jpg",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": "Right-Arm-Fast",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1350000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170641/steve-smith.jpg",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1250000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170635/david-warner.jpg",
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": "Left-Hand-Bat",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1150000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170649/glenn-maxwell.jpg",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "rating": "Right-Hand-Bat",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1050000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170661/rohit-sharma.jpg",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1500000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170677/hardik-pandya.jpg",
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": "Right-Hand-Bat",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1200000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170671/ravindra-jadeja.jpg",
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1300000
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170679/rishabh-pant.jpg",
+    "name": "Rishabh Pant",
+    "country": "India",
+    "role": "Wicketkeeper",
+    "rating": "Left-Hand-Bat",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1100000
+  }
+]
