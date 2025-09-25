@@ -1,9 +1,9 @@
 import React from 'react';
 import './Header.css'
 
-const Navbar = () => {
+const Navbar = ({avlBlnc}) => {
     return (
-        <div className='max-w-full mx-auto'>
+        <div className='max-w-full mx-auto p-1'>
         <div className="navbar lg:bg-base-100 pt-5">
                 <div className="flex-1">
                     <img src="/public/logo.png" className='w-16 p-1' alt="" />
@@ -16,7 +16,7 @@ const Navbar = () => {
                         <li>Teams</li>
                         <li>Schedules</li>
                     </ul>
-                    <button className="btn border-1 lg:px-4 lg:py-5 rounded-3xl w-auto"><span>100000</span> BDT</button>
+                    <button className="btn border-1 lg:px-4 lg:py-5 rounded-3xl w-auto"><span>{avlBlnc}</span> BDT</button>
                     <div className='lg:hidden'>
                         <i className="fa-solid fa-bars"></i>
                     </div>

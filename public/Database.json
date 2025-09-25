@@ -1,5 +1,6 @@
 [
   {
+    "num": 1,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170691/shakib-al-hasan.jpg",
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
@@ -9,6 +10,7 @@
     "price": 950000
   },
   {
+    "num": 2,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170689/mushfiqur-rahim.jpg",
     "name": "Mushfiqur Rahim",
     "country": "Bangladesh",
@@ -18,6 +20,7 @@
     "price": 850000
   },
   {
+    "num": 3,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170693/tamim-iqbal.jpg",
     "name": "Tamim Iqbal",
     "country": "Bangladesh",
@@ -27,6 +30,7 @@
     "price": 800000
   },
   {
+    "num": 4,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170695/litton-das.jpg",
     "name": "Litton Das",
     "country": "Bangladesh",
@@ -36,6 +40,7 @@
     "price": 750000
   },
   {
+    "num": 5,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170647/pat-cummins.jpg",
     "name": "Pat Cummins",
     "country": "Australia",
@@ -45,6 +50,7 @@
     "price": 1350000
   },
   {
+    "num": 6,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170641/steve-smith.jpg",
     "name": "Steve Smith",
     "country": "Australia",
@@ -54,6 +60,7 @@
     "price": 1250000
   },
   {
+    "num": 7,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170635/david-warner.jpg",
     "name": "David Warner",
     "country": "Australia",
@@ -63,6 +70,7 @@
     "price": 1150000
   },
   {
+    "num": 8,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170649/glenn-maxwell.jpg",
     "name": "Glenn Maxwell",
     "country": "Australia",
@@ -72,6 +80,7 @@
     "price": 1050000
   },
   {
+    "num": 9,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170661/rohit-sharma.jpg",
     "name": "Rohit Sharma",
     "country": "India",
@@ -81,6 +90,7 @@
     "price": 1500000
   },
   {
+    "num": 10,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170677/hardik-pandya.jpg",
     "name": "Hardik Pandya",
     "country": "India",
@@ -90,6 +100,7 @@
     "price": 1200000
   },
   {
+    "num": 11,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170671/ravindra-jadeja.jpg",
     "name": "Ravindra Jadeja",
     "country": "India",
@@ -99,6 +110,7 @@
     "price": 1300000
   },
   {
+    "num": 12,
     "image": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170679/rishabh-pant.jpg",
     "name": "Rishabh Pant",
     "country": "India",
