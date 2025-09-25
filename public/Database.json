@@ -4,7 +4,7 @@
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "role": "All-Rounder",
-    "rating": "Left-Hand-Bat",
+    "rating": 92,
     "battingStyle": "Left-Hand-Bat",
     "price": 950000
   },
@@ -13,7 +13,7 @@
     "name": "Mushfiqur Rahim",
     "country": "Bangladesh",
     "role": "Wicketkeeper",
-    "rating": "Right-Hand-Bat",
+    "rating": 88,
     "battingStyle": "Right-Hand-Bat",
     "price": 850000
   },
@@ -22,7 +22,7 @@
     "name": "Tamim Iqbal",
     "country": "Bangladesh",
     "role": "Batsman",
-    "rating": "Left-Hand-Bat",
+    "rating": 85,
     "battingStyle": "Left-Hand-Bat",
     "price": 800000
   },
@@ -31,7 +31,7 @@
     "name": "Litton Das",
     "country": "Bangladesh",
     "role": "Wicketkeeper",
-    "rating": "Right-Hand-Bat",
+    "rating": 80,
     "battingStyle": "Right-Hand-Bat",
     "price": 750000
   },
@@ -40,7 +40,7 @@
     "name": "Pat Cummins",
     "country": "Australia",
     "role": "Bowler",
-    "rating": "Right-Arm-Fast",
+    "rating": 96,
     "battingStyle": "Right-Hand-Bat",
     "price": 1350000
   },
@@ -49,7 +49,7 @@
     "name": "Steve Smith",
     "country": "Australia",
     "role": "Batsman",
-    "rating": "Right-Hand-Bat",
+    "rating": 94,
     "battingStyle": "Right-Hand-Bat",
     "price": 1250000
   },
@@ -58,7 +58,7 @@
     "name": "David Warner",
     "country": "Australia",
     "role": "Batsman",
-    "rating": "Left-Hand-Bat",
+    "rating": 90,
     "battingStyle": "Left-Hand-Bat",
     "price": 1150000
   },
@@ -67,7 +67,7 @@
     "name": "Glenn Maxwell",
     "country": "Australia",
     "role": "All-Rounder",
-    "rating": "Right-Hand-Bat",
+    "rating": 89,
     "battingStyle": "Right-Hand-Bat",
     "price": 1050000
   },
@@ -76,7 +76,7 @@
     "name": "Rohit Sharma",
     "country": "India",
     "role": "Batsman",
-    "rating": "Right-Hand-Bat",
+    "rating": 98,
     "battingStyle": "Right-Hand-Bat",
     "price": 1500000
   },
@@ -85,7 +85,7 @@
     "name": "Hardik Pandya",
     "country": "India",
     "role": "All-Rounder",
-    "rating": "Right-Hand-Bat",
+    "rating": 91,
     "battingStyle": "Right-Hand-Bat",
     "price": 1200000
   },
@@ -94,7 +94,7 @@
     "name": "Ravindra Jadeja",
     "country": "India",
     "role": "All-Rounder",
-    "rating": "Left-Hand-Bat",
+    "rating": 93,
     "battingStyle": "Left-Hand-Bat",
     "price": 1300000
   },
@@ -103,7 +103,7 @@
     "name": "Rishabh Pant",
     "country": "India",
     "role": "Wicketkeeper",
-    "rating": "Left-Hand-Bat",
+    "rating": 87,
     "battingStyle": "Left-Hand-Bat",
     "price": 1100000
   }

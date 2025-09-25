@@ -3,7 +3,7 @@ import React from 'react';
 const Selected = () => {
     return (
         <div>
-            <p>Selected...</p>
+            {/* <p>Selected...</p> */}
         </div>
     );
 };
